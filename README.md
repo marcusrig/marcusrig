@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+|+Next.js+|+Vue.js+|+Node.js+|+PHP+|+Python+|+Laravel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+|+Next.js+|+Vue.js+|+Node.js+|+PHP+|+Python+|" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
