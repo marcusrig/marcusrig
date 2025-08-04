@@ -39,15 +39,3 @@ I work with databases like **MongoDB, PostgreSQL, and MySQL**, and follow best p
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/VS Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
 </p>
-
----
-
-## 📊 My Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&date_format=j%20M%5B%20Y%5D" height="165" />
-</p>
